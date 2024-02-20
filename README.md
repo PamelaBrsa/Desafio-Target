@@ -1,7 +1,24 @@
-# Sequência de Fiboncci
 
-Código desenvolvido em Python para que calcule a sequência de Fibonacci a partir de um número informado e retorne uma mensagem dizendo se o número pertence ou não a sequência.
- 
- ## Como utilizar:
+# Desafio Estágio Target Sistemas
 
- Clone esse repositório e abra no editor de código-fonte de sua preferência e execute no terminal. 
+Este repositório foi criado como parte da resolução dos desafios do processo seletivo da Target Sistemas. Os desafios consistiram no desenvolvimento de código utilizando a linguagem de programação de nossa escolha. Optei por criar uma página front-end interativa, onde os usuários podem inserir comandos e visualizar os resultados diretamente na tela.
+
+## Tecnologias e Ferramentas utilizadas:
+[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=js,html,css,github,git,vscode,)](https://skillicons.dev)
+
+
+
+
+## Soluções
+
+Clique [AQUI](https://felipemanchester.github.io/estagio-target-sistemas) para abrir a página e ver a resolução dos desafios propostos. 
+
+### Conteúdo
+
+- Sequência de Fibonaci
+- Faturamento Diário
+- Faturamento Mensal
+- Inversão de String
+
+
+
