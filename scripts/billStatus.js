@@ -33,3 +33,5 @@ export default async function fetchData() {
     dayLeast.lastChild.textContent = lowest;
     monthlyAvg.children[0].textContent = greaterAverage.length;
   };
+
+  
