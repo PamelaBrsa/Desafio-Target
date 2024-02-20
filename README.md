@@ -11,7 +11,7 @@ Este repositório foi criado como parte da resolução dos desafios do processo 
 
 ## Soluções
 
-Clique [AQUI](https://felipemanchester.github.io/estagio-target-sistemas) para abrir a página e ver a resolução dos desafios propostos. 
+Clique [AQUI]para abrir a página e ver a resolução dos desafios propostos. 
 
 ### Conteúdo
 
@@ -22,3 +22,4 @@ Clique [AQUI](https://felipemanchester.github.io/estagio-target-sistemas) para a
 
 
 
+ 
