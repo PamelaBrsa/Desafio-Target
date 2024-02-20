@@ -11,7 +11,7 @@ Este repositório foi criado como parte da resolução dos desafios do processo 
 
 ## Soluções
 
-Clique [AQUI]para abrir a página e ver a resolução dos desafios propostos. 
+Clique [AQUI](https://pamelabrsa.github.io/Desafio-Target/) para abrir a página e ver a resolução dos desafios propostos. 
 
 ### Conteúdo
 
